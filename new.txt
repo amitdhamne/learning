@@ -2,6 +2,7 @@ git init
 git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/amitdhamne/learning.git
+<<<<<<< Updated upstream
 git push -u origin mastergit init
 git add README.md
 git commit -m "first commit"
@@ -19,3 +20,7 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/amitdhamne/learning.git
 git push -u origin master
+=======
+git push -u origin master
+git status
+>>>>>>> Stashed changes
